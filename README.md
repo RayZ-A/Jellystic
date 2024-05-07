@@ -5,6 +5,9 @@
 ### Platine
 ## Elemente
 ### Ventilator
+202045(Sintron)
+
+
 ### LEDs
 #### 12V
 #### 3V
